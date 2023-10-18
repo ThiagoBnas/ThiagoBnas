@@ -1,6 +1,6 @@
 # Thiago Breves do Nascimento
-# *desenvolvedor Back-end em Java Script*
-NodeJS, ExpressJS, Boas práticas de organização de código.
+## *desenvolvedor Back-end em Java Script*
+###NodeJS, ExpressJS, Boas práticas de organização de código.
 
 
 - 🔭 Atualmente trabalho com serviços back-end e projetos java. 
